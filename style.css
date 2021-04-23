@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
+
+body {
+  background-color: beige
+  }
+
+.pageContainer {
+  width: 940px;
+  margin: 20px auto 0 auto;
+  padding: 20px;
+  background-color: #fff;
+}
+ 
+.imageContainer {
+  float: center;
+  width: 620px;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif, cursive;
+  font-size: 64px;
+  color: blue;
+  text-align: center;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color:  black;
+  text-align: center;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  text-align: center;
+}
+
+header {
+  background-color:burlywood;
+}
+
+.center {
+  display: block;
+  margin-left: 14pc;
+  margin-right: auto;
+  width: 50%;
+}
